@@ -10,7 +10,7 @@ The goal of this project is to predict the landing outcomes of SpaceX's Falcon 9
 
 ### Notebooks
 
-- **Data Analysis and Prediction (`x.ipynb`)**: This Jupyter Notebook contains the complete data analysis process, from data cleaning and exploration to model building and evaluation. It provides a step-by-step walkthrough of how the predictions are generated, including the code and methodologies used.
+- **Data Analysis and Prediction (`CAP_land_success_analysis.ipynb`)**: This Jupyter Notebook contains the complete data analysis process, from data cleaning and exploration to model building and evaluation. It provides a step-by-step walkthrough of how the predictions are generated, including the code and methodologies used.
 
 ### Documentation
 
