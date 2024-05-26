@@ -16,13 +16,3 @@ The goal of this project is to predict the landing outcomes of SpaceX's Falcon 9
 
 - **Project Summary (`CAPSemi2.pdf`)**: This PDF document offers a concise summary of the entire project. It highlights key findings, methodologies, and results in a clear and accessible format, making it easy to understand the project's outcomes without diving into the detailed code.
 
-
-## Contact
-
-If you have any questions or need further information, please contact me at [nandiniwork1521@gmail.com](mailto:nandiniwork1521@gmail.com).
-
-Thank you for your interest in the Space Mission Outcomes Prediction project! Enjoy exploring the repository and feel free to reach out with any feedback or questions.
-
----
-
-Nandini Mehta
