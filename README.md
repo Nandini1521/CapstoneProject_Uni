@@ -14,5 +14,7 @@ The goal of this project is to predict the landing outcomes of SpaceX's Falcon 9
 
 ### Documentation
 
-- **Project Summary (`CAPSemi2.pdf`)**: This PDF document offers a concise summary of the entire project. It highlights key findings, methodologies, and results in a clear and accessible format, making it easy to understand the project's outcomes without diving into the detailed code.
+- **Project Summary (`CAPSemi2.pdf`)**: These slides offers a concise summary of the entire project. It highlights key findings, methodologies, and results in a clear and accessible format, making it easy to understand the project's outcomes without diving into the detailed code.
+- **Project Report (`CAP final report.pdf`)**: This document offers an in-depth, detailed report on the development, implementation and outcome of this project.
+
 
