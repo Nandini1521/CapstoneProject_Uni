@@ -4,7 +4,7 @@ Welcome to the Space Mission Outcomes Prediction project! This repository contai
 
 ## Project Overview
 
-The goal of this project is to predict the landing outcomes of SpaceX's Falcon 9 first stage rockets. Using a comprehensive dataset, the project employs various data analysis and machine learning techniques to generate predictions and insights. The results of this analysis aim to improve our understanding of the factors influencing successful landings.
+The goal of this project is to predict the landing outcomes of the first-stage of SpaceX's Falcon 9 rockets. Using a comprehensive dataset, the project employs various data analysis and machine learning techniques to generate predictions and insights. The results of this analysis aims to improve our understanding of the factors that influence landing success.
 
 ## Contents
 
